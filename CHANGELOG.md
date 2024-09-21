@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.6.0](https://www.github.com/14790897/auto-read-liunxdo/compare/v1.5.0...v1.6.0) (2024-09-21)
+
+
+### Features
+
+* 先点赞再阅读 ([a9f016b](https://www.github.com/14790897/auto-read-liunxdo/commit/a9f016be196074d75f549ed408892ed0809e6095))
+* 自动点赞的docker ([d4b7195](https://www.github.com/14790897/auto-read-liunxdo/commit/d4b7195047ca12f4991583d93bd1a514d56a960a))
+
+
+### Bug Fixes
+
+* docker读取.env.local变量 ([c5a61bf](https://www.github.com/14790897/auto-read-liunxdo/commit/c5a61bf5ac38cd05fbde5204976d52541f3c6dfb))
+
 ## [1.5.0](https://www.github.com/14790897/auto-read-liunxdo/compare/v1.4.0...v1.5.0) (2024-09-12)
 
 
